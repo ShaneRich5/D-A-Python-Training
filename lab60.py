@@ -15,3 +15,17 @@ Instructions
     8. None / 11
     9. 8426859910050 / 75
 '''
+
+import math_helpers
+
+# Uncomment these to test the output
+    
+# print(math_helpers.smart_divide(4,2))
+# print(math_helpers.smart_divide(1,False))
+# print(math_helpers.smart_divide(1431.84, 456))
+# print(math_helpers.smart_divide(12, 0))
+# print(math_helpers.smart_divide(100 , None))
+# print(math_helpers.smart_divide(0 , 1))
+# print(math_helpers.smart_divide(False , True))
+# print(math_helpers.smart_divide(None , 11))
+# print(math_helpers.smart_divide(8426859910050, 75))  
